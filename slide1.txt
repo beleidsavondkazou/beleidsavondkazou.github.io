@@ -8,6 +8,7 @@
 			<li> twede puntje <li>
 			<li> 3de puntje <li>
 			<li> vorming vvs<li>
+			<li>tester<li>
 
 			<ol>
 
