@@ -3,11 +3,24 @@
  */
 
 
-var loadtxt = function(){
-    $("#section3").load("slide1.txt");
-}
+    var loadtxt = function(){
+        $("#slide11").load("slide1.0VV.txt");
+        $("#slide21").load("slide1.2VV.txt");
+        $("#slide31").load("slide1.3VV.txt");
+        $("#slide21bis").load("slide2.0Vorming.txt");
+        $("#slide22").load("slide2.1Vorming.txt");
+        $("#slide23").load("slide2.2Vorming.txt");
+        $("#slide24").load("slide2.3Vorming.txt");
 
-setInterval(function(){
-    console.log("timerticks");
-    loadtxt();
-},200)
+
+
+
+
+
+    }
+
+    setInterval(function(){
+        console.log("timerticks");
+        loadtxt();
+    },200)
+

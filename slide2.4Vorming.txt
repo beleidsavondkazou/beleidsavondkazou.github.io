@@ -1,0 +1,19 @@
+<div class="content" style="padding:4rem;">
+			<h1>hebben jullie nood aan een soort database waarin alle vormingen kunnen bijgehouden worden?</h1>
+			<p>poll:</p>
+
+
+
+
+</div>
+
+<!--
+	<ol>
+		<li> eerste puntje <li>
+		<li> twede puntje <li>
+		<li> 3de puntje <li>
+	<ol>
+	<p style="font-style:italic;"> txt </p>
+	<p> txt <p>
+
+--!>

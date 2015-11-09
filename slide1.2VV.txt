@@ -1,0 +1,16 @@
+<div class="content" style="padding:4rem;">
+			<h2> vv Werking <h2>
+			<h3> wat willen vv's op een vormingsweekend<h3>
+			<p>content<p>
+</div>
+
+<!--
+	<ol>
+		<li> eerste puntje <li>
+		<li> twede puntje <li>
+		<li> 3de puntje <li>
+	<ol>
+	<p style="font-style:italic;"> txt </p>
+	<p> txt <p> 
+
+--!>

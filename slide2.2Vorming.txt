@@ -1,0 +1,18 @@
+<div class="content" style="padding:4rem;">
+			<h1>Op welke momenten moeten vormingen plaatsvinden? </h1>
+			<p style="font-style:italic;">Hoeveelkeer per jaar?</p>
+
+
+
+</div>
+
+<!--
+	<ol>
+		<li> eerste puntje <li>
+		<li> twede puntje <li>
+		<li> 3de puntje <li>
+	<ol>
+	<p style="font-style:italic;"> txt </p>
+	<p> txt <p> 
+
+--!>

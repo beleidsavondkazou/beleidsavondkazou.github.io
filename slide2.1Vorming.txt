@@ -1,0 +1,18 @@
+<div class="content" style="padding:4rem;">
+			<h1>wat verstaan jullie onder vorming, waar hebben jullie nood aan?</h1>
+			<p>content</p>
+			
+
+
+</div>
+
+<!--
+	<ol>
+		<li> eerste puntje <li>
+		<li> twede puntje <li>
+		<li> 3de puntje <li>
+	<ol>
+	<p style="font-style:italic;"> txt </p>
+	<p> txt <p> 
+
+--!>
