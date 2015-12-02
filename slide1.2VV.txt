@@ -1,7 +1,15 @@
 <div class="content" style="padding:4rem;">
 			<h2> vv Werking <h2>
 			<h3> wat willen vv's op een vormingsweekend<h3>
-			<p>content<p>
+			<p>kasboek!!!!!!!<p>
+			<p>coaching<p>
+			<p>uitwisseling van ervaring<p>
+			<p>meter of peter (niet meegaan op kamp)<p>
+			<p> voorbeeld kasboek eventuuel een oefening<p>
+			<p> praktische oefeningen, real live situaties <p>
+			<p> concreet even naar het kamp van de vv kijken en tips geven <p>
+			<p> voldoende info over de locatie waar je verblijft, bossen, velden, spelmogelijkheden.<p>
+			<p> geen herhaling van de vv bundel <p>
 </div>
 
 <!--

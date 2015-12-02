@@ -1,7 +1,8 @@
 <div class="content" style="padding:4rem;">
 			<h1>Op welke momenten moeten vormingen plaatsvinden? </h1>
 			<p style="font-style:italic;">Hoeveelkeer per jaar?</p>
-
+			<p style="font-style:italic;"> rekening houden met studenten, blok enz... </p>
+			<p style="font-style:italic;"> als we vorming koppelen aan een ontspanning moet er een duidelijk afgebakend thema en tijdspanne zijn</p>
 
 
 </div>

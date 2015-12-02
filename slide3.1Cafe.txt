@@ -1,6 +1,22 @@
 <div class="content" style="padding:4rem;">
 			<h1>concept</h1>
 			<p>een avondje weg kan zijn...</p>
+			<p>bierquiz proeven<p>
+			<p>bierpong<p>
+			<p>gezelschapspelletjes<p>
+			<p>skien (ontheroad) <p>
+			<p>monibar op verplaatsing door waas en dender <p>
+			<p> bier brouwen , koken <p>
+			<p> andere locatie in het midden van waas en dender <p>
+			<p> escape room in dendermonde <p>
+			<p> low budget, we moeten rekening houden dat het niet elke maand veel geld kost <p>
+			<p> kazou cantuus <p>
+			<p> meer ambiance <p>
+			<p> tapas avond <p>
+			<p> drive in cinema <p>
+			<p> eventueel een namiddag <p>
+			<p> francois is beter<p>
+			<p> battle of the cremekes<p>
 			
 
 

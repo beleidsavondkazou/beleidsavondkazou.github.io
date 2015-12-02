@@ -1,7 +1,17 @@
 <div class="content" style="padding:4rem;">
-			<h1>any questions?</h1>
-
-			
+			<h1>big troubles?</h1>
+			<p> info tijdig krijgen! <p>
+			<p> we moeten veel achter info vragen <p>
+			<p> de info(locatie, planning profilering, struikelblokken, inclusies, deelnemerslijsten) over het kamp moet uitgebreider en tijdig<p>
+			<p> de jedi moet zelf het initiatief nemen wanneer er een extra moni mee mag op je kamp <p>
+			<p> opvolging kamp wanneer er nog geen vv gevonden is (eventueel vanuit jedi) monitoren op de hoogte houden<p>
+			<p> planning van vorming en cursusen rekening houdend met studenten<p>
+			<p> hmc in een periode waarin de studenten kunnen <p>
+			<p> VVC of HMC meer laten samenvallen met hogeschoolstudenten 
+			<p> weinig mesnen op beleidsavonden, meer reclame maken, automatische sms? communicatie; snapchqt van kazou, saaie onderwerpen, sfeer ambiance nadien, soort beleidsavondje door monibar, iets ludiek zoals beerpong, beleidsavonden zeggen wat er gaat gebeuren, fotos nemen <p>
+			<p> vacatures en tegenstrijdig ;onitoren die niet aan een vakantie geraken --> augustus is lastig voor hogeschoolstudenten, jongere monitoren naar juli <p>
+			<p> reden geven als je geen vakantie hebt <p>
+			<p> monitoren warm maken, attentie krijgen --> kus van Wouter en bank vooruit ;-), mailtjes van ouders doorsturen, sterretje op sjaaltje naargelang aantal vakanties <p> gsm hoesje van kazou, sticker, ... <p>
 
 
 </div>

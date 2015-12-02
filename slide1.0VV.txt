@@ -1,5 +1,20 @@
 <div class="content" style="padding:4rem;">
 			<h1>VV Werking</h1>
+			<h2> problemen bij vvs <h2>
+			<p>problemen rond coaching (zonder hmc)<p>
+			<p>reageren bij zware inclusie<p>
+			<p>minder tijd doorbrengen met de deelnemers door papier werk<p>
+			<p>tijdig informatie verkrijgen<p>
+			<p> Drank? softdrinks en sterke drank <p>
+			<p> sjablonen voor monibundels waar te vinden<p>
+			<p> hoe een evenwichtig kampschema opbouwen<p>
+			<p> originele activiteiten kunnen delen eventueel met dropbox<p>
+			<p>vorming rond kasboek<p>
+			<p>originele manieren van coaching<p>
+			<p> kookploeg biedt veel hulp (niet altijd positief)<p>
+			<p> beginnend vv --> ervaren moni's mee op kamp <p>
+			<p> voorbeeld kasboek eventuuel een oefening<p>
+
 </div>
 
 <!--

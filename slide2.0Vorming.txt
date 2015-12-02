@@ -1,8 +1,14 @@
 <div class="content" style="padding:4rem;">
 			<h1>Vorming</h1>
 			<p style="font-style:italic;"> De nood aan vorming </p>
-			
-
+			<p style="font-style:italic;"> beter evenwicht tussen sint-niklaas en dendermonde </p>
+			<p style="font-style:italic;"> de neerslagen digitaliseren en in een database verzamelen </p>
+			<p style="font-style:italic;"> kampdans vorming</p>
+			<p style="font-style:italic;"> elke week monibar (naar voorbeeld van antwerpen)</p>
+			<p style="font-style:italic;"> Gent als locatie?</p>
+			<p style="font-style:italic;"> kandidaatstelling voor monitoren die vorming willen geven</p>
+			<p style="font-style:italic;"> vorming over kaartlezen</p>
+			<p style="font-style:italic;"> verschillende locaties en data voor dezelfde vorming</p>
 
 </div>
 

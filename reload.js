@@ -11,7 +11,9 @@
         $("#slide22").load("slide2.1Vorming.txt");
         $("#slide23").load("slide2.2Vorming.txt");
         $("#slide24").load("slide2.3Vorming.txt");
-
+        $("#slide31bis").load("slide3.0Cafe.txt");
+        $("#slide32").load("slide3.1Cafe.txt");
+        $("#slide33").load("slide4vragen.txt");
 
 
 
